@@ -169,5 +169,6 @@
 #include "span.hpp"
 #include "syncstream.hpp"
 #include "calling_convention.hpp"
+#include "jthread.hpp"
 
 #endif // FBC_MESSY_TEST_COMMON_HPP_
